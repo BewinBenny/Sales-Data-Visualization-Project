@@ -8,12 +8,12 @@ This project provides a visual analysis of sales and customer behavior using key
 ## 📊 Visualizations
 
 ### 1. 🧍‍♂️🧍‍♀️ Sales by Gender
-![Sales by Gender](charts/sales_gender.png)
+![Sales by Gender](Screenshot 2025-05-21 221838.png)
 
 ---
 
 ### 2. 📅 Revenue by Date (Version 1)
-![Revenue by Date 1](charts/revenue_by_date_1.png)
+![Revenue by Date 1]()
 
 ---
 
@@ -32,8 +32,8 @@ This project provides a visual analysis of sales and customer behavior using key
 
 ---
 
-### 6. 📊 Revenue by Date (Version 2)
-![Revenue by Date 2](charts/revenue_by_date_2.png)
+### 6. 📊 Revenue by delivery man (with orders)
+![Revenue by delivery man ](charts/revenue_by_date_2.png)
 
 ---
 
